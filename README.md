@@ -2,7 +2,7 @@
 
 ## I am on the way to become a Full Stack Web Developer!
 
-- 🔭 I’m currently working on creating a Portfolio.!
+- 🔭 I’m currently working on creating a Portfolio.
 - 🌱 I’m currently learning JavaScript BackEnd & DataBase Development with ExpressJS and MongoDB. The next technology that follows is TypeScript & Angular.
 - 👯 I’m looking to collaborate with another programmint enthusiasts.
 - 🥅 2022 Goals: To become a better programmer than a year before!
@@ -40,8 +40,7 @@
 
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+
 <br />
 <br />
 <br />
