@@ -14,6 +14,14 @@
 
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="PetarDimitrov91's GitHub Stats" src="https://github-readme-stats..vercel.app/api?username=PetarDimitrov91&show_icons=true&hide_border=true" />
+<details/>
+
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="intelliJ" width="40px" src="https://user-images.githubusercontent.com/79804094/145719955-649095c8-905c-42fb-8e38-a214a1e222d6.png" />
@@ -52,11 +60,7 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="PetarDimitrov91's GitHub Stats" src="https://github-readme-stats..vercel.app/api?username=PetarDimitrov91&show_icons=true&hide_border=true" />
-<details/>
 
 
 [facebook]: https://www.facebook.com/
