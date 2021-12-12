@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Petar Dimitrov | Facebook" width="26px" src="https://user-images.githubusercontent.com/79804094/145720852-813cd17e-0d49-4986-b855-89bfead19817.png" />][facebook]
+[<img align="left" alt="Petar Dimitrov | Facebook" width="40px" src="https://user-images.githubusercontent.com/79804094/145721282-201562a6-b6c3-456a-9622-cc45d134f8f6.png" />][facebook]
 
 <br />
 
