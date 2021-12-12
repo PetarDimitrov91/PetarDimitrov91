@@ -2,19 +2,18 @@
 
 ### I am on the way to become a Full Stack Web Developer!
 
-- 🔭 I’m currently working on creating a Portfolio.
+- 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning JavaScript BackEnd & DataBase Development with ExpressJS and MongoDB.
-- 👯 I’m looking to collaborate with another programming enthusiasts.
+- 👯 I’m looking to collaborate with other programming enthusiasts.
 - 🥅 2022 Goals: To become a better programmer than a year before!
 - ⚡ Fun fact: I'm passionate about mountaineering.
-
 
 ### Connect with me:
 
 [<img align="left" alt="Petar Dimitrov | Facebook" width="40px" src="https://user-images.githubusercontent.com/79804094/145721364-d28d5746-2dd6-44df-8d45-1ffe18fd37b7.png" />][facebook]
 
 <br />
-<br />s
+<br />
 <br />
 
 ---
