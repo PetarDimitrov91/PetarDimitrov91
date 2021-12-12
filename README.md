@@ -39,11 +39,11 @@
 
 <img align="left" alt="nodejs" width="40px" src="https://user-images.githubusercontent.com/79804094/145722043-0bb1c8dd-8dc8-43bb-b006-16561195b5e6.png" />
 
-<img align="left" alt="expressjs" width="60px" src="https://user-images.githubusercontent.com/79804094/145722111-75fed11d-b6d5-4816-bc83-ca31ec8ab4bd.png" />
+<img align="left" alt="expressjs" width="55px" src="https://user-images.githubusercontent.com/79804094/145722111-75fed11d-b6d5-4816-bc83-ca31ec8ab4bd.png" />
 
 <img align="left" alt="mongodb" width="35px" src="https://user-images.githubusercontent.com/79804094/145722572-f2d7aba8-1316-4412-9dca-f36e8243936b.png" />
 
-<img align="left" alt="Hibernate" width="45px" src="https://user-images.githubusercontent.com/79804094/145723046-72bbc9ad-9fd7-4564-b2af-5320f6d7ce80.png" />
+<img align="left" alt="Hibernate" width="40px" src="https://user-images.githubusercontent.com/79804094/145723046-72bbc9ad-9fd7-4564-b2af-5320f6d7ce80.png" />
 
 <img align="left" alt="Spring" width="40px" src="https://user-images.githubusercontent.com/79804094/145721971-dc80cd82-cf7c-4779-b4d8-69ef1bb64e5a.png" />
 
