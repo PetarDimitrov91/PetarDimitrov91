@@ -51,12 +51,7 @@
 
 <img align="left" alt="NoSql" width="35px" src="https://user-images.githubusercontent.com/79804094/145722032-bfe073fb-ea5c-42e3-bdec-f0b66916608d.png" />
 
-<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/79804094/145720869-dd80739e-18f6-4ca5-baff-3c07cec7f3b6.png" />
 
-
-
-<br />
-<br />
 <br />
 <br />
 <br />
