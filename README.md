@@ -43,7 +43,7 @@
 
 <img align="left" alt="mongodb" width="45px" src="https://user-images.githubusercontent.com/79804094/145722572-f2d7aba8-1316-4412-9dca-f36e8243936b.png" />
 
-<img align="left" alt="Hibernate" width="65px" src="https://user-images.githubusercontent.com/79804094/145723046-72bbc9ad-9fd7-4564-b2af-5320f6d7ce80.png" />
+<img align="left" alt="Hibernate" width="45px" src="https://user-images.githubusercontent.com/79804094/145723046-72bbc9ad-9fd7-4564-b2af-5320f6d7ce80.png" />
 
 <img align="left" alt="Spring" width="50px" src="https://user-images.githubusercontent.com/79804094/145721971-dc80cd82-cf7c-4779-b4d8-69ef1bb64e5a.png" />
 
