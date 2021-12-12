@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Petar Dimitrov | Facebook" width="26px" src="https://github.com/PetarDimitrov91/PetarDimitrov91/issues/5#issue-1077849987" />][facebook]
+[<img align="left" alt="Petar Dimitrov | Facebook" width="26px" src="https://github.com/PetarDimitrov91/PetarDimitrov91/issues/5#issue-1077849987.png" />][facebook]
 
 <br />
 
@@ -18,7 +18,7 @@
 
 <img align="left" alt="intelliJ" width="40px" src="https://user-images.githubusercontent.com/79804094/145719955-649095c8-905c-42fb-8e38-a214a1e222d6.png" />
 
-<img align="left" alt="vsc" width="40px" src="https://github.com/PetarDimitrov91/PetarDimitrov91/issues/15#issue-1077850398" />
+<img align="left" alt="vsc" width="40px" src="https://github.com/PetarDimitrov91/PetarDimitrov91/issues/15#issue-1077850398.png" />
 
 
 <br />
