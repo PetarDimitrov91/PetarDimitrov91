@@ -14,7 +14,7 @@
 [<img align="left" alt="Petar Dimitrov | Facebook" width="40px" src="https://user-images.githubusercontent.com/79804094/145721364-d28d5746-2dd6-44df-8d45-1ffe18fd37b7.png" />][facebook]
 
 <br />
-<br />
+<br />s
 <br />
 
 ---
@@ -29,9 +29,9 @@
 
 <img align="left" alt="JS" width="20px" src="https://user-images.githubusercontent.com/79804094/145722096-efbd0be2-5401-4783-9c79-fddd1966e233.png" />
 
-<img align="left" alt="TS" width="50px" src="https://user-images.githubusercontent.com/79804094/145721959-1b42ec4a-304e-4829-9f2a-4f01b1a4c508.png" />
+<img align="left" alt="TS" width="42px" src="https://user-images.githubusercontent.com/79804094/145721959-1b42ec4a-304e-4829-9f2a-4f01b1a4c508.png" />
 
-<img align="left" alt="Angular" width="35px" src="https://user-images.githubusercontent.com/79804094/145721954-e79b1e14-79b0-4132-bcf3-679b2a2dd32d.png" />
+<img align="left" alt="Angular" width="30px" src="https://user-images.githubusercontent.com/79804094/145721954-e79b1e14-79b0-4132-bcf3-679b2a2dd32d.png" />
 
 <img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/79804094/145720800-cb22490d-17d8-47ef-b367-f50e1e7068a3.png" />
 
