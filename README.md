@@ -1,5 +1,5 @@
 ## Hi there, I'm Petar 👋 
----
+
 ### I am on the way to become a Full Stack Web Developer!
 
 - 🔭 I’m currently working on creating a Portfolio.
