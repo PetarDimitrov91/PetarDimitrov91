@@ -16,6 +16,8 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="intelliJ" width="40px" src="https://user-images.githubusercontent.com/79804094/145719955-649095c8-905c-42fb-8e38-a214a1e222d6.png" />
+
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
