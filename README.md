@@ -33,9 +33,9 @@
 
 <img align="left" alt="Angular" width="30px" src="https://user-images.githubusercontent.com/79804094/145721954-e79b1e14-79b0-4132-bcf3-679b2a2dd32d.png" />
 
-<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/79804094/145720800-cb22490d-17d8-47ef-b367-f50e1e7068a3.png" />
+<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/79804094/145720800-cb22490d-17d8-47ef-b367-f50e1e7068a3.png" />
 
-<img align="left" alt="CSS3" width="35px" src="https://user-images.githubusercontent.com/79804094/145722124-902992cc-a68b-4871-88db-51327813549d.png" />
+<img align="left" alt="CSS3" width="30px" src="https://user-images.githubusercontent.com/79804094/145722124-902992cc-a68b-4871-88db-51327813549d.png" />
 
 <img align="left" alt="nodejs" width="40px" src="https://user-images.githubusercontent.com/79804094/145722043-0bb1c8dd-8dc8-43bb-b006-16561195b5e6.png" />
 
