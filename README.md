@@ -45,13 +45,13 @@
 
 <img align="rigth" alt="Hibernate" width="65px" src="https://user-images.githubusercontent.com/79804094/145723046-72bbc9ad-9fd7-4564-b2af-5320f6d7ce80.png" />
 
-<img align="left" alt="Spring" width="50px" src="https://user-images.githubusercontent.com/79804094/145721971-dc80cd82-cf7c-4779-b4d8-69ef1bb64e5a.png" />
+<img  alt="Spring" width="50px" src="https://user-images.githubusercontent.com/79804094/145721971-dc80cd82-cf7c-4779-b4d8-69ef1bb64e5a.png" />
 
-<img align="left" alt="MySql" width="45px" src="https://user-images.githubusercontent.com/79804094/145722055-fcc50737-7160-4418-b707-a253a758f14c.png" />
+<img  alt="MySql" width="45px" src="https://user-images.githubusercontent.com/79804094/145722055-fcc50737-7160-4418-b707-a253a758f14c.png" />
 
-<img align="left" alt="NoSql" width="45px" src="https://user-images.githubusercontent.com/79804094/145722032-bfe073fb-ea5c-42e3-bdec-f0b66916608d.png" />
+<img  alt="NoSql" width="45px" src="https://user-images.githubusercontent.com/79804094/145722032-bfe073fb-ea5c-42e3-bdec-f0b66916608d.png" />
 
-<img align="left" alt="GitHub" width="45px" src="https://user-images.githubusercontent.com/79804094/145720869-dd80739e-18f6-4ca5-baff-3c07cec7f3b6.png" />
+<img alt="GitHub" width="45px" src="https://user-images.githubusercontent.com/79804094/145720869-dd80739e-18f6-4ca5-baff-3c07cec7f3b6.png" />
 
 
 
