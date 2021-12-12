@@ -8,7 +8,6 @@
 - 🥅 2022 Goals: To become a better programmer than a year before!
 - ⚡ Fun fact: I'm passionate about mountaineering.
 
-- 
 
 ### Connect with me:
 
@@ -18,7 +17,7 @@
 <br />
 <br />
 
-- 
+---
 
 ### Languages and Tools:
 
@@ -54,6 +53,8 @@
 
 <img align="left" alt="GitHub" width="45px" src="https://user-images.githubusercontent.com/79804094/145720869-dd80739e-18f6-4ca5-baff-3c07cec7f3b6.png" />
 
+
+---
 
 <br />
 <br />
