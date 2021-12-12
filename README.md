@@ -20,6 +20,14 @@
 
 <img align="left" alt="vsc" width="40px" src="https://user-images.githubusercontent.com/79804094/145720916-4ca20cca-5615-4d5e-a14f-1e61716fb482.png" />
 
+<img align="left" alt="Java" width="40px" src="https://user-images.githubusercontent.com/79804094/145720879-9a655040-205c-46a6-a6fb-28fc92591e5d.png" />
+
+<img align="left" alt="JS" width="40px" src="https://user-images.githubusercontent.com/79804094/145720916-4ca20cca-5615-4d5e-a14f-1e61716fb482.png" />
+
+<img align="left" alt="TS" width="40px" src="https://user-images.githubusercontent.com/79804094/145720916-4ca20cca-5615-4d5e-a14f-1e61716fb482.png" />
+
+<img align="left" alt="Angular" width="40px" src="https://user-images.githubusercontent.com/79804094/145720916-4ca20cca-5615-4d5e-a14f-1e61716fb482.png" />
+
 
 <br />
 <br />
