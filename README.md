@@ -62,6 +62,7 @@
 <br />
 
 --- 
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="rigth" alt="PetarDimitrov91's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PetarDimitrov91&show_icons=true&hide_border=true" />
