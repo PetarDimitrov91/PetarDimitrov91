@@ -28,17 +28,17 @@
 
 <img align="left" alt="Angular" width="45px" src="https://user-images.githubusercontent.com/79804094/145721954-e79b1e14-79b0-4132-bcf3-679b2a2dd32d.png" />
 
-<img align="left" alt="HTML5" width="45px" src="https://user-images.githubusercontent.com/79804094/145720800-cb22490d-17d8-47ef-b367-f50e1e7068a3.png" />
+<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/79804094/145720800-cb22490d-17d8-47ef-b367-f50e1e7068a3.png" />
 
 <img align="left" alt="CSS3" width="45px" src="https://user-images.githubusercontent.com/79804094/145722124-902992cc-a68b-4871-88db-51327813549d.png" />
 
 <img align="left" alt="nodejs" width="45px" src="https://user-images.githubusercontent.com/79804094/145722043-0bb1c8dd-8dc8-43bb-b006-16561195b5e6.png" />
 
-<img align="left" alt="expressjs" width="45px" src="https://user-images.githubusercontent.com/79804094/145722111-75fed11d-b6d5-4816-bc83-ca31ec8ab4bd.png" />
+<img align="left" alt="expressjs" width="60px" src="https://user-images.githubusercontent.com/79804094/145722111-75fed11d-b6d5-4816-bc83-ca31ec8ab4bd.png" />
 
 <img align="left" alt="mongodb" width="45px" src="https://user-images.githubusercontent.com/79804094/145722572-f2d7aba8-1316-4412-9dca-f36e8243936b.png" />
 
-<img align="left" alt="Spring" width="45px" src="https://user-images.githubusercontent.com/79804094/145721971-dc80cd82-cf7c-4779-b4d8-69ef1bb64e5a.png" />
+<img align="left" alt="Spring" width="50px" src="https://user-images.githubusercontent.com/79804094/145721971-dc80cd82-cf7c-4779-b4d8-69ef1bb64e5a.png" />
 
 <img align="left" alt="Hibernate" width="45px" src="https://user-images.githubusercontent.com/79804094/145720874-3e595051-81b1-46c6-a0b7-38f910d8bec3.png" />
 
@@ -49,6 +49,9 @@
 <img align="left" alt="GitHub" width="45px" src="https://user-images.githubusercontent.com/79804094/145720869-dd80739e-18f6-4ca5-baff-3c07cec7f3b6.png" />
 
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
