@@ -3,7 +3,7 @@
 ### I am on the way to become a Full Stack Web Developer!
 
 - 🔭 I’m currently working on my Portfolio.
-- 🌱 I’m currently learning JavaScript BackEnd & DataBase Development with ExpressJS and MongoDB.
+- 🌱 I’m currently learning JavaScript Back-End development.
 - 👯 I’m looking to collaborate with other programming enthusiasts.
 - 🥅 2022 Goals: To become a better programmer than a year before!
 - ⚡ Fun fact: I'm passionate about mountaineering.
