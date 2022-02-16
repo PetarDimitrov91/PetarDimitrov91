@@ -1,6 +1,6 @@
 ## Hi there, I'm Petar 👋 
 
-### I am on the way to become a Full Stack Web Developer!
+### I am on the way to become a Java Full-Stack Web Developer!
 
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning JavaScript Back-End development.
