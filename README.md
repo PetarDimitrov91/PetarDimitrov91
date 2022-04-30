@@ -2,8 +2,8 @@
 
 ### I am Full-Stack Web Developer!
 
-- 🔭 I’m currently working on my Portfolio.
-- 🌱 I’m currently learning JavaScript Back-End development.
+- 🔭 I’m currently working on a private project.
+- 🌱 I’m currently learning advanced Algorithms and Data Structures.
 - 👯 I’m looking to collaborate with other programming enthusiasts.
 - 🥅 2022 Goals: To become a better programmer than a year before!
 - ⚡ Fun fact: I'm passionate about mountaineering.
